@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+ height: 50vh;
+}
+.carousel-control-prev{
+    background-color: lightslategray;
+    width: 5vw;
+margin: 50px;
+}
+.carousel-control-next{
+    background-color: lightslategray;
+    width: 5vw;
+margin: 50px;
+}

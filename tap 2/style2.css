@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    background-color: rgb(124, 124, 124);
+    height: 100vh;
+
+}
+p{
+    color: white;
+    text-align: center;
+}
+img{
+    color: white;
+    width: 25vw;
+    margin: 0 auto;
+    display: block;
+}
